@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A05_LINQ_GROUP\bin\Debug\A05_LINQ_GROUP.exe.config
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A05_LINQ_GROUP\bin\Debug\A05_LINQ_GROUP.exe
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A05_LINQ_GROUP\bin\Debug\A05_LINQ_GROUP.pdb
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A05_LINQ_GROUP\obj\Debug\A05_LINQ_GROUP.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A05_LINQ_GROUP\obj\Debug\A05_LINQ_GROUP.exe
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A05_LINQ_GROUP\obj\Debug\A05_LINQ_GROUP.pdb

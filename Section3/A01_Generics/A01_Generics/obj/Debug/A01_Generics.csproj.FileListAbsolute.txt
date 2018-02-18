@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\TipsC#\Section3\A01_Generics\A01_Generics\bin\Debug\A01_Generics.exe.config
+C:\Users\admin\source\repos\TipsC#\Section3\A01_Generics\A01_Generics\bin\Debug\A01_Generics.exe
+C:\Users\admin\source\repos\TipsC#\Section3\A01_Generics\A01_Generics\bin\Debug\A01_Generics.pdb
+C:\Users\admin\source\repos\TipsC#\Section3\A01_Generics\A01_Generics\obj\Debug\A01_Generics.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\TipsC#\Section3\A01_Generics\A01_Generics\obj\Debug\A01_Generics.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TipsC#\Section3\A01_Generics\A01_Generics\obj\Debug\A01_Generics.exe
+C:\Users\admin\source\repos\TipsC#\Section3\A01_Generics\A01_Generics\obj\Debug\A01_Generics.pdb

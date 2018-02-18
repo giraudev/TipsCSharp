@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A04_DelegatesMethod\bin\Debug\A04_DelegatesMethod.exe.config
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A04_DelegatesMethod\bin\Debug\A04_DelegatesMethod.exe
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A04_DelegatesMethod\bin\Debug\A04_DelegatesMethod.pdb
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A04_DelegatesMethod\obj\Debug\A04_DelegatesMethod.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A04_DelegatesMethod\obj\Debug\A04_DelegatesMethod.Form1.resources
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A04_DelegatesMethod\obj\Debug\A04_DelegatesMethod.Properties.Resources.resources
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A04_DelegatesMethod\obj\Debug\A04_DelegatesMethod.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A04_DelegatesMethod\obj\Debug\A04_DelegatesMethod.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A04_DelegatesMethod\obj\Debug\A04_DelegatesMethod.exe
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A04_DelegatesMethod\obj\Debug\A04_DelegatesMethod.pdb

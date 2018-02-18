@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A02_Delegates\obj\Debug\A02_Delegates.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A02_Delegates\obj\Debug\A02_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A02_Delegates\bin\Debug\A02_Delegates.exe.config
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A02_Delegates\bin\Debug\A02_Delegates.exe
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A02_Delegates\bin\Debug\A02_Delegates.pdb
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A02_Delegates\obj\Debug\A02_Delegates.exe
+C:\Users\admin\source\repos\TipsC#\Section5\Section5\A02_Delegates\obj\Debug\A02_Delegates.pdb

@@ -1,0 +1,1 @@
+{"Nome":"Reginaldo Rossi","Email":"rossi@hotmail.com","Senha":"123456"}

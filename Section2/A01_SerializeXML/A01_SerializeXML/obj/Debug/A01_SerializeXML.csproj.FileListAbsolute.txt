@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A01_SerializeXML\bin\Debug\A01_SerializeXML.dll
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A01_SerializeXML\bin\Debug\A01_SerializeXML.pdb
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A01_SerializeXML\obj\Debug\A01_SerializeXML.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A01_SerializeXML\obj\Debug\A01_SerializeXML.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A01_SerializeXML\obj\Debug\A01_SerializeXML.dll
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A01_SerializeXML\obj\Debug\A01_SerializeXML.pdb

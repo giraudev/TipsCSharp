@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\TipsC#\Section6\A04_ThreadBackground\bin\Debug\A04_ThreadBackground.exe.config
+C:\Users\admin\source\repos\TipsC#\Section6\A04_ThreadBackground\bin\Debug\A04_ThreadBackground.exe
+C:\Users\admin\source\repos\TipsC#\Section6\A04_ThreadBackground\bin\Debug\A04_ThreadBackground.pdb
+C:\Users\admin\source\repos\TipsC#\Section6\A04_ThreadBackground\obj\Debug\A03_ThreadBackground.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\TipsC#\Section6\A04_ThreadBackground\obj\Debug\A03_ThreadBackground.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TipsC#\Section6\A04_ThreadBackground\obj\Debug\A04_ThreadBackground.exe
+C:\Users\admin\source\repos\TipsC#\Section6\A04_ThreadBackground\obj\Debug\A04_ThreadBackground.pdb

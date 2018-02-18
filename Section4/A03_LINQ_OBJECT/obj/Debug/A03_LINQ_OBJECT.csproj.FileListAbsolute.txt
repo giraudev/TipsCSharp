@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A03_LINQ_OBJECT\bin\Debug\A03_LINQ_OBJECT.exe.config
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A03_LINQ_OBJECT\bin\Debug\A03_LINQ_OBJECT.exe
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A03_LINQ_OBJECT\bin\Debug\A03_LINQ_OBJECT.pdb
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A03_LINQ_OBJECT\obj\Debug\A03_LINQ_OBJECT.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A03_LINQ_OBJECT\obj\Debug\A03_LINQ_OBJECT.exe
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A03_LINQ_OBJECT\obj\Debug\A03_LINQ_OBJECT.pdb

@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A04_DSerializeJSON\bin\Debug\A04_DSerializeJSON.exe.config
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A04_DSerializeJSON\bin\Debug\A04_DSerializeJSON.exe
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A04_DSerializeJSON\bin\Debug\A04_DSerializeJSON.pdb
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A04_DSerializeJSON\bin\Debug\A01_SerializeXML.dll
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A04_DSerializeJSON\bin\Debug\A01_SerializeXML.pdb
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A04_DSerializeJSON\obj\Debug\A04_DSerializeJSON.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A04_DSerializeJSON\obj\Debug\A04_DSerializeJSON.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A04_DSerializeJSON\obj\Debug\A04_DSerializeJSON.exe
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A04_DSerializeJSON\obj\Debug\A04_DSerializeJSON.pdb

@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A04_LINQ_JOIN\bin\Debug\A04_LINQ_JOIN.exe.config
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A04_LINQ_JOIN\bin\Debug\A04_LINQ_JOIN.exe
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A04_LINQ_JOIN\bin\Debug\A04_LINQ_JOIN.pdb
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A04_LINQ_JOIN\obj\Debug\A04_LINQ_JOIN.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A04_LINQ_JOIN\obj\Debug\A04_LINQ_JOIN.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A04_LINQ_JOIN\obj\Debug\A04_LINQ_JOIN.exe
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A04_LINQ_JOIN\obj\Debug\A04_LINQ_JOIN.pdb

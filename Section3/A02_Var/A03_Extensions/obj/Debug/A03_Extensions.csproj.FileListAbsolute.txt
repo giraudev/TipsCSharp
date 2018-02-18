@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\TipsC#\Section3\A02_Var\A03_Extensions\bin\Debug\A03_Extensions.exe.config
+C:\Users\admin\source\repos\TipsC#\Section3\A02_Var\A03_Extensions\bin\Debug\A03_Extensions.exe
+C:\Users\admin\source\repos\TipsC#\Section3\A02_Var\A03_Extensions\bin\Debug\A03_Extensions.pdb
+C:\Users\admin\source\repos\TipsC#\Section3\A02_Var\A03_Extensions\obj\Debug\A03_Extensions.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TipsC#\Section3\A02_Var\A03_Extensions\obj\Debug\A03_Extensions.exe
+C:\Users\admin\source\repos\TipsC#\Section3\A02_Var\A03_Extensions\obj\Debug\A03_Extensions.pdb

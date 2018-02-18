@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A02_LINQ\bin\Debug\A02_LINQ.exe.config
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A02_LINQ\bin\Debug\A02_LINQ.exe
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A02_LINQ\bin\Debug\A02_LINQ.pdb
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A02_LINQ\obj\Debug\A02_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A02_LINQ\obj\Debug\A02_LINQ.exe
+C:\Users\admin\source\repos\TipsC#\Section4\Section4\A02_LINQ\obj\Debug\A02_LINQ.pdb

@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A01_SerializeXMLEx\bin\Debug\A01_SerializeXMLEx.exe.config
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A01_SerializeXMLEx\bin\Debug\A01_SerializeXMLEx.exe
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A01_SerializeXMLEx\bin\Debug\A01_SerializeXMLEx.pdb
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A01_SerializeXMLEx\bin\Debug\A01_SerializeXML.dll
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A01_SerializeXMLEx\bin\Debug\A01_SerializeXML.pdb
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A01_SerializeXMLEx\obj\Debug\A01_SerializeXMLEx.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A01_SerializeXMLEx\obj\Debug\A01_SerializeXMLEx.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A01_SerializeXMLEx\obj\Debug\A01_SerializeXMLEx.exe
+C:\Users\admin\source\repos\TipsC#\Section2\A01_SerializeXML\A01_SerializeXMLEx\obj\Debug\A01_SerializeXMLEx.pdb

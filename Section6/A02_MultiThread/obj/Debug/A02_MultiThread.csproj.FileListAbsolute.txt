@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\TipsC#\Section6\A02_MultiThread\bin\Debug\A02_MultiThread.exe.config
+C:\Users\admin\source\repos\TipsC#\Section6\A02_MultiThread\bin\Debug\A02_MultiThread.exe
+C:\Users\admin\source\repos\TipsC#\Section6\A02_MultiThread\bin\Debug\A02_MultiThread.pdb
+C:\Users\admin\source\repos\TipsC#\Section6\A02_MultiThread\obj\Debug\A02_MultiThread.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TipsC#\Section6\A02_MultiThread\obj\Debug\A02_MultiThread.exe
+C:\Users\admin\source\repos\TipsC#\Section6\A02_MultiThread\obj\Debug\A02_MultiThread.pdb

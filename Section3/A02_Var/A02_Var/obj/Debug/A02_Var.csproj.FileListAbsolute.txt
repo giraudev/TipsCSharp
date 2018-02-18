@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\TipsC#\Section3\A02_Var\A02_Var\bin\Debug\A02_Var.exe.config
+C:\Users\admin\source\repos\TipsC#\Section3\A02_Var\A02_Var\bin\Debug\A02_Var.exe
+C:\Users\admin\source\repos\TipsC#\Section3\A02_Var\A02_Var\bin\Debug\A02_Var.pdb
+C:\Users\admin\source\repos\TipsC#\Section3\A02_Var\A02_Var\obj\Debug\A02_Var.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\TipsC#\Section3\A02_Var\A02_Var\obj\Debug\A02_Var.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TipsC#\Section3\A02_Var\A02_Var\obj\Debug\A02_Var.exe
+C:\Users\admin\source\repos\TipsC#\Section3\A02_Var\A02_Var\obj\Debug\A02_Var.pdb
